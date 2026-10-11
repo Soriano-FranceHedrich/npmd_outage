@@ -1,0 +1,9 @@
+# Local runtime and database files
+.runtime/
+data/*.sqlite
+data/*.sqlite-*
+
+# Local database exports and operational inventory
+npmd.sql
+NPMD-INVENTORY.xlsx
+
